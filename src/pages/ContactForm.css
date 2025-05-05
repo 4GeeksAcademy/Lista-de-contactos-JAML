@@ -1,0 +1,10 @@
+.container-cl{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
